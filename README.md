@@ -20,7 +20,7 @@ I have put a twist on the look of the game inspired by one of my all time favour
 - JavaScript
 
 ## Getting Started: 
-The game operates with the simple use of the arrow keys on your keyboard to direct the snake around the board.
+The game operates with the simple use of the arrow keys on your keyboard to direct the snake around the board. The aim is to collect 10 "rations" with each collection the snake gets faster. The player cannot touch the walls of the gameboard nor can the snake ever touch itself.
 
 
 ## Planned Future Enhancements.
