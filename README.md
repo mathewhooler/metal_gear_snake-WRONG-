@@ -5,8 +5,8 @@
 Metal Gear Snake is my take on the classic snake game that so many might remember from their old Nokia Phones.
 I have put a twist on the look of the game inspired by one of my all time favourite Playstation games "Metal Gear Solid".
 
-## Screenshot(s)
-<img width="1728" alt="Screenshot1_GameStart" src="https://github.com/mathewhooler/metal_gear_snake/assets/149305887/76d93ca5-be3a-47ff-8624-eb93774d26c6">
+
+<img width="1728" alt="Screenshot1_GameStart" src="https://github.com/mathewhooler/metal_gear_snake/assets/149305887/89b06e25-52c2-4942-9988-cb3029e8d596">
 
 <img width="1728" alt="Screenshot2_GameOver" src="https://github.com/mathewhooler/metal_gear_snake/assets/149305887/a4d6c195-49e4-4881-84a1-d76dd7ed9c93">
 
