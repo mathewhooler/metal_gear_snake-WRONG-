@@ -2,7 +2,7 @@
 
 ## Description
 
-<Metal Gear Snake>: Metal Gear Snake is my take on the classic snake game that so many might remember from their old Nokia Phones.
+Metal Gear Snake is my take on the classic snake game that so many might remember from their old Nokia Phones.
 I have put a twist on the look of the game inspired by one of my all time favourite Playstation games "Metal Gear Solid".
 
 ## Screenshot(s)
